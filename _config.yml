@@ -2,6 +2,5 @@ title: Gabriele Nava
 description: My personal page
 show_downloads: true
 google_analytics:
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme:
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
