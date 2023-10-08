@@ -1,3 +1,5 @@
+<div style="background-color: lightgray; padding: 10px;">
+
 # Gabriele Nava
 
 **PAGE UNDER DEVELOPMENT!**
@@ -15,3 +17,6 @@ I am a Post Doc at the [Italian Institute of Technology](https://www.iit.it/it/)
 ## Code
 
 - [whole-body-controllers](https://github.com/robotology/whole-body-controllers)
+
+
+</div>
