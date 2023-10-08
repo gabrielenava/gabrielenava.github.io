@@ -13,7 +13,7 @@
 
 **Contacts:**
 
-<span class="emoji-envelope">:envelope:</span> [mail](mailto:gabriele.nava3@gmail.com)  <span class="emoji-link">&#x1F517;</span> [LinkedIn profile]() <span class="emoji-link">&#x1F517;</span> [GitHub profile]() <span class="emoji-link">&#x1F517;</span> [Google Scholar profile](https://scholar.google.com/citations?user=J7f9h28AAAAJ&hl=it&oi=ao)
+<span class="emoji-envelope">&#x2709;</span> [mail](mailto:gabriele.nava3@gmail.com)  <span class="emoji-link">&#x1F517;</span> [LinkedIn profile]() <span class="emoji-link">&#x1F517;</span> [GitHub profile]() <span class="emoji-link">&#x1F517;</span> [Google Scholar profile](https://scholar.google.com/citations?user=J7f9h28AAAAJ&hl=it&oi=ao)
 
 <hr class="custom-line">
 
