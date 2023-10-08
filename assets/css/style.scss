@@ -14,9 +14,14 @@ header {
   margin: 0 auto; /* Center the line horizontally */
 }
 
+<div class="your-div"></div>
+
 <style>
   .emoji-link {
     font-size: 24px; /* Adjust the size as needed */
     /* Add any other custom styles */
+  }
+  .your-div {
+    margin-bottom: 20px; /* Adjust the value to control the amount of space */
   }
 </style>
