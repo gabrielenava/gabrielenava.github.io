@@ -1,14 +1,10 @@
 /* Your CSS styles here */
 header {
   display: none;
-	background-color: #FCD6CB;
 }
 
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-	background-color: #FCD6CB;
 }
 
 /* Additional CSS rules */
@@ -25,8 +21,4 @@ body {
 .emoji-envelope {
   font-size: 24px; /* Adjust the size as needed */
   /* Add any other custom styles for the envelope emoji */
-}
-
-.your-div {
-  margin-bottom: 20px;
 }
