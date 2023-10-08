@@ -2,6 +2,8 @@
    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
 </head>
 
+<div class="main-container">
+
 # Gabriele Nava
 
 <div style="display: flex; align-items: center;">
@@ -45,3 +47,4 @@ Most of the code I develop is on private repos. Here the public code in `robotol
 
 ## Training Program
 
+</div>
