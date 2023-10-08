@@ -7,7 +7,7 @@
 
 **Contacts**
 
-gabriele.nava3@gmail.com  [LinkedIn profile]() [GitHub profile]() [Google Scholar profile](https://scholar.google.com/citations?user=J7f9h28AAAAJ&hl=it&oi=ao)
+:link: [mail](mailto:gabriele.nava3@gmail.com)  :link: [LinkedIn profile]() :link: [GitHub profile]() :link: [Google Scholar profile](https://scholar.google.com/citations?user=J7f9h28AAAAJ&hl=it&oi=ao)
 
 <div style="border-bottom: 3px solid blue;"></div>
 
