@@ -10,12 +10,11 @@
    <p> <strong>Bio:</strong> <br> I am a Post Doc at the <a href="https://www.iit.it/it/">Italian Institute of Technology</a>, and I carry on my research activities in the <a href="https://ami.iit.it/">Artificial and Mechanical Intelligence</a> group, led by Dr. Daniele Pucci. My broader research interest is underactuated robot dynamics and control and my current research is focused on <a href="https://ami.iit.it/aerial-humanoid-robotics">Aerial Humanoid Robotics</a>. I am the coordinator of the iRonCub team, the objective of which is to design and control a jet-powered humanoid robot.</p>
 </div>
 
-**Contacts**
+**Contacts:**
 
-<span class="emoji-link">&#x1F517;</span> 
- [mail](mailto:gabriele.nava3@gmail.com)  :link: [LinkedIn profile]() :link: [GitHub profile]() :link: [Google Scholar profile](https://scholar.google.com/citations?user=J7f9h28AAAAJ&hl=it&oi=ao)
+<span class="emoji-link">&#x1F517;</span> [mail](mailto:gabriele.nava3@gmail.com)  <span class="emoji-link">&#x1F517;</span> [LinkedIn profile]() <span class="emoji-link">&#x1F517;</span> [GitHub profile]() <span class="emoji-link">&#x1F517;</span> [Google Scholar profile](https://scholar.google.com/citations?user=J7f9h28AAAAJ&hl=it&oi=ao)
 
-<div style="border-bottom: 3px solid blue;"></div>
+<hr class="custom-line">
 
 ## Code and Projects
 
@@ -35,14 +34,15 @@ Most of the code I develop is on private repos. Here the public code in `robotol
 
 ## Work Experience
 
-<div style="border-bottom: 3px solid blue;"></div>
+<hr class="custom-line">
 
 ## Education
 
-<div style="border-bottom: 3px solid blue;"></div>
+<hr class="custom-line">
 
 ## Publications
 
-<div style="border-bottom: 3px solid blue;"></div>
+<hr class="custom-line">
 
 ## Training Program
+
