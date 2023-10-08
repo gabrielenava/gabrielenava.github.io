@@ -1,4 +1,4 @@
-<div style="width: 100%; max-width: unset; background-color: #2d3554;">
+<div style="width: 100%; max-width: unset; background-color: #d2d3d9; markdown=1;">
 
 # Gabriele Nava
 
