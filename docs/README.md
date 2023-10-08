@@ -1,6 +1,6 @@
 <head>
     <!-- Other head content -->
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="../assets/style.css">
 </head>
 
 # Gabriele Nava
