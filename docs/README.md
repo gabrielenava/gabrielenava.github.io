@@ -9,7 +9,7 @@
    <p> <strong>Bio:</strong> <br> I am a Post Doc at the <a href="https://www.iit.it/it/">Italian Institute of Technology</a>, and I carry on my research activities in the <a href="https://ami.iit.it/">Artificial and Mechanical Intelligence</a> group, led by Dr. Daniele Pucci. My broader research interest is underactuated robot dynamics and control and my current research is focused on <a href="https://ami.iit.it/aerial-humanoid-robotics">Aerial Humanoid Robotics</a>. I am the coordinator of the iRonCub team, the objective of which is to design and control a jet-powered humanoid robot.</p>
 </div>
 
-</span class="your-div"></span>
+<div class="your-div"></div>
 
 **Contacts:**
 
