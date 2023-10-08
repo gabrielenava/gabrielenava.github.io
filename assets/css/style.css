@@ -7,6 +7,13 @@ body {
   font-family: Arial, sans-serif;
 }
 
+<style>
+.main-container {
+  width: 100%;
+    max-width: unset;
+  }
+</style>
+
 /* Additional CSS rules */
 .custom-line {
   background-color: #2d3554;
