@@ -1,5 +1,6 @@
 <head>
    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
+</head>
 
 # Gabriele Nava
 
@@ -44,4 +45,3 @@ Most of the code I develop is on private repos. Here the public code in `robotol
 
 ## Training Program
 
-</head>
