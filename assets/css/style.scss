@@ -1,8 +1,6 @@
 /* Your CSS styles here */
 body {
   font-family: Arial, sans-serif;
-  background-color: #b8b6b6;
-  max-width: 100%;
 }
 
 header {
@@ -11,7 +9,14 @@ header {
 
 /* Additional CSS rules */
 .custom-line {
-  background-color: lightblue;
+  background-color: #2d3554;
   width: 75%; /* Adjust the width to 3/4 of the file width */
   margin: 0 auto; /* Center the line horizontally */
 }
+
+<style>
+  .emoji-link {
+    font-size: 24px; /* Adjust the size as needed */
+    /* Add any other custom styles */
+  }
+</style>
