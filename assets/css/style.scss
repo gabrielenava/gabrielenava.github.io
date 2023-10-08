@@ -1,6 +1,9 @@
 /* Your CSS styles here */
 body {
   font-family: Arial, sans-serif;
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+  background-color: lightgray; /* Set the background color to light gray */
 }
 
 header {
@@ -14,12 +17,11 @@ header {
   margin: 0 auto; /* Center the line horizontally */
 }
 
-<style>
-  .emoji-link {
-    font-size: 24px; /* Adjust the size as needed */
-    /* Add any other custom styles */
-  }
-  .your-div {
-    margin-bottom: 20px; /* Adjust the value to control the amount of space */
-  }
-</style>
+.emoji-link {
+  font-size: 24px; /* Adjust the size as needed */
+  /* Add any other custom styles */
+}
+
+.your-div {
+  margin-bottom: 20px; /* Adjust the value to control the amount of space */
+}
