@@ -1,10 +1,11 @@
-<div style="background-color: lightgray; padding: 10px;">
-
 # Gabriele Nava
 
 **PAGE UNDER DEVELOPMENT!**
 
 <img src="https://avatars.githubusercontent.com/u/12396934?s=400&u=32bca94abd4e230badf3a7b153efb767b3e8d17d&v=4" width="180"> 
+
+---
+<div style="border-bottom: 2px solid blue;"></div>
 
 ## Bio
 
@@ -18,5 +19,7 @@ I am a Post Doc at the [Italian Institute of Technology](https://www.iit.it/it/)
 
 - [whole-body-controllers](https://github.com/robotology/whole-body-controllers)
 
-
-</div>
+| Header | Content |
+| ------ | ------- |
+| Cell 1  | Cell 2  |
+{: style="background-color: lightgray;"}
