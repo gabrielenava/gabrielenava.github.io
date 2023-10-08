@@ -1,5 +1,5 @@
 <head>
-<link href="https://github.com/gabrielenava/gabrielenava.github.io/blob/main/assets/css/style.css" rel="stylesheet"></link>
+<link>href="https://github.com/gabrielenava/gabrielenava.github.io/blob/main/assets/css/style.css" rel="stylesheet"</link>
 </head>
 
 # Gabriele Nava
