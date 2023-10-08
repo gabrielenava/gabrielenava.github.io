@@ -1,7 +1,7 @@
 /* Your CSS styles here */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: #b8b6b6;
   max-width: 100%;
 }
 
@@ -10,3 +10,8 @@ header {
 }
 
 /* Additional CSS rules */
+.custom-line {
+  background-color: lightblue;
+  width: 75%; /* Adjust the width to 3/4 of the file width */
+  margin: 0 auto; /* Center the line horizontally */
+}
