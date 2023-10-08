@@ -1,28 +1,31 @@
 /* Your CSS styles here */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+}
+
 header {
   display: none;
 }
 
-body {
-  font-family: Arial, sans-serif;
-  margin: 0; /* Remove default body margin */
-  padding: 0; /* Remove default body padding */
-  background-color: lightgray; /* Set the background color to light gray */
-}
-
 /* Additional CSS rules */
 .custom-line {
-    background-color: #2d3554; /* Your desired background color */
-    background-color: rgba(45, 53, 84, 0.5); /* Fallback color */
-    width: 75%;
-    margin: 0 auto;
+  background-color: #2d3554;
+  width: 75%;
+  margin: 0 auto;
 }
 
 .emoji-link {
+  font-size: 24px;
+}
+
+.emoji-envelope {
   font-size: 24px; /* Adjust the size as needed */
-  /* Add any other custom styles */
+  /* Add any other custom styles for the envelope emoji */
 }
 
 .your-div {
-  margin-bottom: 20px; /* Adjust the value to control the amount of space */
+  margin-bottom: 20px;
 }
