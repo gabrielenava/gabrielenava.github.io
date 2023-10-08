@@ -12,9 +12,10 @@ header {
 
 /* Additional CSS rules */
 .custom-line {
-  background-color: #2d3554;
-  width: 75%; /* Adjust the width to 3/4 of the file width */
-  margin: 0 auto; /* Center the line horizontally */
+    background-color: #2d3554; /* Your desired background color */
+    background-color: rgba(45, 53, 84, 0.5); /* Fallback color */
+    width: 75%;
+    margin: 0 auto;
 }
 
 .emoji-link {
