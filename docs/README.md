@@ -1,3 +1,8 @@
+<head>
+    <!-- Other head content -->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
 # Gabriele Nava
 
 <div class="your-div" style="display: flex; align-items: center;">
