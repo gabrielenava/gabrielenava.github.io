@@ -25,7 +25,7 @@ Most of the code I develop is on private repos. Here the public code in `robotol
 - [kalman_filters]()
 - [Multi-Body-Simulator]()
 
-<div style="border-bottom: 3px solid blue;"></div>
+<hr class="custom-line">
 
 ## Work Experience
 
