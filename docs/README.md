@@ -1,7 +1,4 @@
-<head>
-    <!-- Other head content -->
-    <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
-</head>
+<link href="../assets/css/style.css" rel="stylesheet"></link>
 
 # Gabriele Nava
 
