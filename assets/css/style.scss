@@ -1,13 +1,13 @@
 /* Your CSS styles here */
+header {
+  display: none;
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 0; /* Remove default body margin */
   padding: 0; /* Remove default body padding */
   background-color: lightgray; /* Set the background color to light gray */
-}
-
-header {
-  display: none;
 }
 
 /* Additional CSS rules */
