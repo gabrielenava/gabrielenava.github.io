@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Gabriele Nava # Website name
-baseURL: 'https://gabrielenava.github.io/' # Website URL
+baseURL: 'https://gabrielenava.github.io' # Website URL
 
 ############################
 ## LANGUAGE
