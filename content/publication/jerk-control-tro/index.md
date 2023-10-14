@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9237133'
+url_pdf: 'https://arxiv.org/pdf/1907.11906.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
