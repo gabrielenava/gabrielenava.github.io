@@ -29,10 +29,10 @@ content:
   address:
     street: Via San Quirico 19D
     city: Genova, GE
-  #   region: CA
+  #   region:
     postcode: '16163'
     country: Italy
-  #   country_code: US
+  #   country_code: IT
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
