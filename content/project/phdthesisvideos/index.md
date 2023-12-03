@@ -21,8 +21,8 @@ external_link: 'https://www.youtube.com/playlist?list=PLltBBMLNGuC7NbJteKfh1uoYN
 #   focal_point: Smart
 
 links:
-  - icon: Link
-    icon_pack: fab
+  - icon: link
+    icon_pack: fas
     name: Link
     url: https://www.youtube.com/playlist?list=PLltBBMLNGuC7NbJteKfh1uoYN1VpNz2Fj
 url_code: ''
