@@ -12,6 +12,20 @@ design:
 
 ---
 
+<style>
+  .skills-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .skills-table th,
+  .skills-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+</style>
+
 <table class="skills-table">
   <tr>
     <th style="text-align: left;">Coding Languages 💻</th>
