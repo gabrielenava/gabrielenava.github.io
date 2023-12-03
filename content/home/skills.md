@@ -12,18 +12,21 @@ design:
 
 ---
 
-**Software and libraries** 💻
-
-- Programming Languages
+**Programming Languages** 💻
    * Familiar with C++ and Python
-- Calculus and Design
+
+**Calculus and Design** 🔧
    * Proficient in MATLAB and Simulink
    * Familiar with PTC Creo
-- Software for Robotics
+   
+**Software for Robotics** 🤖
    * Proficient with YARP, iDynTree and Gazebo Simulator
-- Version Control
+
+**Version Control** 🔍
    * Proficient with GitHub and GitLab
-- Operating Systems
+
+**Operating Systems** ⚙️
    * Proficient in Windows and Linux
-- Office and Similar
+
+**Office and Similar** 📚
    * Proficient with Word, PowerPoint, Excel, and Latex
