@@ -13,7 +13,7 @@ design:
 ---
 
 |||
-|:----------:|:---------------:|
+|:----------|:---------------|
 |💻 **Programming Languages**  | Familiar with C++ and Python |
 |🔧 **Calculus and Design**  | Proficient in MATLAB and Simulink <br> Familiar with PTC Creo |
 |🤖 **Software for Robotics**  | Proficient with YARP, iDynTree and Gazebo Simulator |
