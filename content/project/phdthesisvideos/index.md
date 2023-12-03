@@ -14,17 +14,17 @@ tags:
 # date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/robotology/whole-body-controllers'
+external_link: 'https://www.youtube.com/playlist?list=PLltBBMLNGuC7NbJteKfh1uoYN1VpNz2Fj'
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
 #   focal_point: Smart
 
 links:
-  - icon: github
+  - icon: link
     icon_pack: fab
     name: Link
-    url: https://github.com/robotology/whole-body-controllers
+    url: https://www.youtube.com/playlist?list=PLltBBMLNGuC7NbJteKfh1uoYN1VpNz2Fj
 url_code: ''
 url_pdf: ''
 url_slides: ''
