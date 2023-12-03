@@ -1,5 +1,5 @@
 ---
-title: Ph.D. Thesis Videos
+title: 🎥 Ph.D. Thesis Videos
 summary: Videos of simulations and experiments done during my doctorate.
 tags:
   - Robotics

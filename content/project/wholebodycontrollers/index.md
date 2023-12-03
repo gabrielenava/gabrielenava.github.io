@@ -1,5 +1,5 @@
 ---
-title: Whole-Body-Controllers
+title: 🔨 Whole-Body-Controllers
 summary: Simulink-based whole-body balancing controllers for humanoid robots.
 tags:
   - Robotics

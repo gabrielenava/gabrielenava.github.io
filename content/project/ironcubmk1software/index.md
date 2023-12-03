@@ -1,5 +1,5 @@
 ---
-title: iRonCub-Mk1-Software
+title: 🚀 iRonCub-Mk1-Software
 summary: Software for modeling, simulation and control of the jet-powered humanoid iRonCub-Mk1.
 tags:
   - Robotics
