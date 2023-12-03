@@ -12,11 +12,29 @@ design:
 
 ---
 
-|||
-|:----------|-------|:---------------|
-| **Coding Languages**  💻 || Familiar with _C++_ and _Python_ |
-| **Calculus and Design** 🔧 || Proficient in _MATLAB_ and _Simulink_, familiar with _PTC Creo_ |
-| **Robotics Software** 🤖 || Proficient with _YARP_, _iDynTree_ and _Gazebo Simulator_ |
-| **Version Control** 🔍 || Proficient with _GitHub_ and _GitLab_ |
-| **Operating Systems** ⚙️ || Proficient in _Windows_ and _Linux_ |
-| **Office and Similar** 📚 || Proficient with _Word_, _PowerPoint_, _Excel_, and _Latex_ |
+<table class="skills-table">
+  <tr>
+    <th style="text-align: left;">Coding Languages 💻</th>
+    <td>Familiar with <em>C++</em> and <em>Python</em></td>
+  </tr>
+  <tr>
+    <th style="text-align: left;">Calculus and Design 🔧</th>
+    <td>Proficient in <em>MATLAB</em> and <em>Simulink</em>, familiar with <em>PTC Creo</em></td>
+  </tr>
+  <tr>
+    <th style="text-align: left;">Robotics Software 🤖</th>
+    <td>Proficient with <em>YARP</em>, <em>iDynTree</em>, and <em>Gazebo Simulator</em></td>
+  </tr>
+  <tr>
+    <th style="text-align: left;">Version Control 🔍</th>
+    <td>Proficient with <em>GitHub</em> and <em>GitLab</em></td>
+  </tr>
+  <tr>
+    <th style="text-align: left;">Operating Systems ⚙️</th>
+    <td>Proficient in <em>Windows</em> and <em>Linux</em></td>
+  </tr>
+  <tr>
+    <th style="text-align: left;">Office and Similar 📚</th>
+    <td>Proficient with <em>Word</em>, <em>PowerPoint</em>, <em>Excel</em>, and <em>Latex</em></td>
+  </tr>
+</table>
