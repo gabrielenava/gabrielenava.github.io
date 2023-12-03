@@ -12,10 +12,18 @@ design:
 
 ---
 
-**Programming** 💻
+**Software and libraries** 💻
 
-- python, matlab, latex, experience with C++
-
-**Tools and libraries** 📚
-
-- git, Gazebo, Yarp, Linux, experience with ROS
+- Programming Languages
+   * Familiar with C++ and Python
+- Calculus and Design
+   * Proficient in MATLAB and Simulink
+   * Familiar with PTC Creo
+- Software for Robotics
+   * Proficient with YARP, iDynTree and Gazebo Simulator
+- Version Control
+   * Proficient with GitHub and GitLab
+- Operating Systems
+   * Proficient in Windows and Linux
+- Office and Similar
+   * Proficient with Word, PowerPoint, Excel, and Latex
