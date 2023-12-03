@@ -14,9 +14,9 @@ design:
 
 |||
 |:----------|-------|:---------------|
-|💻 **Coding Languages**  || Familiar with _C++_ and _Python_ |
-|🔧 **Calculus and Design**  || Proficient in _MATLAB_ and _Simulink_, familiar with _PTC Creo_ |
-|🤖 **Robotics Software**  || Proficient with _YARP, iDynTree and Gazebo Simulator |
-|🔍 **Version Control**  || Proficient with _GitHub_ and _GitLab_ |
-|⚙️ **Operating Systems**  || Proficient in _Windows_ and _Linux_ |
-|📚 **Office and Similar**  || Proficient with _Word_, _PowerPoint_, _Excel_, and _Latex_ |
+| **Coding Languages**  💻 || Familiar with _C++_ and _Python_ |
+| **Calculus and Design** 🔧 || Proficient in _MATLAB_ and _Simulink_, familiar with _PTC Creo_ |
+| **Robotics Software** 🤖 || Proficient with _YARP_, _iDynTree_ and _Gazebo Simulator_ |
+| **Version Control** 🔍 || Proficient with _GitHub_ and _GitLab_ |
+| **Operating Systems** ⚙️ || Proficient in _Windows_ and _Linux_ |
+| **Office and Similar** 📚 || Proficient with _Word_, _PowerPoint_, _Excel_, and _Latex_ |
