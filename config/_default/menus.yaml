@@ -13,8 +13,8 @@ main:
   - name: Skills
     url: '#skills'
     weight: 30  
-  - name: Projects&Tools
-    url: '#projects&tools'
+  - name: Projects & Tools
+    url: '#projects--tools'
     weight: 40
   - name: Publications
     url: '#publications'
