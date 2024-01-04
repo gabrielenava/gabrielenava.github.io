@@ -12,6 +12,7 @@ tags:
   - OTHex
   
 # date: '2016-04-27T00:00:00Z'
+weight: 20
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.youtube.com/playlist?list=PLltBBMLNGuC7NbJteKfh1uoYN1VpNz2Fj'

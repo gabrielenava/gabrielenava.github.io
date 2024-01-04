@@ -10,6 +10,7 @@ tags:
   - rigid-body-dynamics
   
 # date: '2016-04-27T00:00:00Z'
+weight: 40
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/robotology/whole-body-controllers'

@@ -11,6 +11,7 @@ tags:
   - Kalman Filter
   
 # date: '2016-04-27T00:00:00Z'
+weight: 50
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/gabrielenava?tab=repositories'
