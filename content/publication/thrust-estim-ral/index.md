@@ -1,16 +1,17 @@
 ---
-title: 'Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots'
+title: 'Momentum-Based Extended Kalman Filter for Thrust Estimation on Flying Multibody Robots'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tong Hui
-  - Antonello Paolino
+  - Hosameldin Awadalla Omer Mohamed
   - admin
-  - Giuseppe L'Erario
-  - Fabio Di Natale
+  - Giuseppe L’Erario
+  - Silvio Traversaro
   - Fabio Bergonti
+  - Luca Fiorio
+  - Punith Reddy Vanteddu
   - Francesco Braghin
   - Daniele Pucci
 
@@ -19,24 +20,24 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022'
+date: '2021'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2021-11-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication:  2022 International Conference on Robotics and Automation (ICRA)
+publication:  IEEE Robotics and Automation Letters
 # publication_short: In *ICRA*
 
 abstract: > 
-  This paper presents a modeling and control frame-work for multibody flying robots subject to non-negligible aero-dynamic forces acting on the centroidal dynamics. First, aero-dynamic forces are calculated during robot flight in different operating conditions by means of Computational Fluid Dynamics (CFD) analysis. Then, analytical models of the aerodynamics coefficients are generated from the dataset collected with CFD analysis. The obtained simplified aerodynamic model is also used to improve the flying robot control design. We present two control strategies: compensating for the aerodynamic effects via feedback linearization and enforcing the controller robustness with gain-scheduling. Simulation results on the jet-powered humanoid robot iRonCub validate the proposed approach.
+  Effective control design of flying vehicles requires a reliable estimation of the propellers’ thrust forces to secure a successful flight. Direct measurements of thrust forces, however, are seldom available in practice and on-line thrust estimation usually follows from the application of fusion algorithms that process on-board sensor data. This letter proposes a framework for the estimation of the thrust intensities on flying multibody systems that are not equipped with sensors for direct thrust measurement. The key ingredient of the proposed framework is the so-called centroidal momentum of a multibody system, which combined with the propeller model. It enables the design of Extended Kalman Filters (EKF) for on-line thrust estimation. The presented approach tackles the additional complexity in thrust estimation due to the possibly large number of degrees of freedom of the system and uncertainties in the propeller model. For instance, a covariance scheduling approach based on the turbines RPM error is proposed to ensure a reliable estimation even in case of turbine failures. Simulations are presented to validate the proposed algorithm during robot flight. Moreover, an experimental setup is designed to evaluate the accuracy of the estimation algorithm using iRonCub, a jet-powered humanoid robot, while standing on the ground.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +52,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9812147'
+url_pdf: 'https://ieeexplore.ieee.org/document/9622189'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/9812147/media#media'
+url_video: 'https://ieeexplore.ieee.org/document/9622189/media#media'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

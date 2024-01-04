@@ -1,17 +1,16 @@
 ---
-title: 'Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots'
+title: 'Model-Based Real-Time Motion Tracking Using Dynamical Inverse Kinematics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tong Hui
-  - Antonello Paolino
+  - Lorenzo Rapetti
+  - Yeshasvi Tirupachuri
+  - Kourosh Darvish
+  - Stefano Dafarra
   - admin
-  - Giuseppe L'Erario
-  - Fabio Di Natale
-  - Fabio Bergonti
-  - Francesco Braghin
+  - Claudia Latella
   - Daniele Pucci
 
 # # Author notes (optional)
@@ -19,24 +18,24 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022'
+date: '2020'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2020-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication:  2022 International Conference on Robotics and Automation (ICRA)
+publication:  MDPI Algorithms
 # publication_short: In *ICRA*
 
 abstract: > 
-  This paper presents a modeling and control frame-work for multibody flying robots subject to non-negligible aero-dynamic forces acting on the centroidal dynamics. First, aero-dynamic forces are calculated during robot flight in different operating conditions by means of Computational Fluid Dynamics (CFD) analysis. Then, analytical models of the aerodynamics coefficients are generated from the dataset collected with CFD analysis. The obtained simplified aerodynamic model is also used to improve the flying robot control design. We present two control strategies: compensating for the aerodynamic effects via feedback linearization and enforcing the controller robustness with gain-scheduling. Simulation results on the jet-powered humanoid robot iRonCub validate the proposed approach.
+  This paper contributes towards the development of motion tracking algorithms for time-critical applications, proposing an infrastructure for dynamically solving the inverse kinematics of highly articulate systems such as humans. The method presented is model-based, it makes use of velocity correction and differential kinematics integration in order to compute the system configuration. The convergence of the model towards the measurements is proved using Lyapunov analysis. An experimental scenario, where the motion of a human subject is tracked in static and dynamic configurations, is used to validate the inverse kinematics method performance on human and humanoid models. Moreover, the method is tested on a human-humanoid retargeting scenario, verifying the usability of the computed solution in real-time robotics applications. Our approach is evaluated both in terms of accuracy and computational load, and compared to iterative optimization algorithms.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +50,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9812147'
+url_pdf: 'https://www.mdpi.com/1999-4893/13/10/266'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/9812147/media#media'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

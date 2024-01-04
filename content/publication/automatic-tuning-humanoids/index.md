@@ -1,29 +1,24 @@
 ---
-title: 'Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots'
+title: 'Automatic gain tuning of a momentum based balancing controller for humanoid robots'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tong Hui
-  - Antonello Paolino
-  - admin
-  - Giuseppe L'Erario
-  - Fabio Di Natale
-  - Fabio Bergonti
-  - Francesco Braghin
   - Daniele Pucci
-
+  - admin 
+  - Francesco Nori
+  
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022'
+date: '2016'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2016-11-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +27,11 @@ publishDate: '2022-05-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2022 International Conference on Robotics and Automation (ICRA)
+publication:  2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
 # publication_short: In *ICRA*
 
 abstract: > 
-  This paper presents a modeling and control frame-work for multibody flying robots subject to non-negligible aero-dynamic forces acting on the centroidal dynamics. First, aero-dynamic forces are calculated during robot flight in different operating conditions by means of Computational Fluid Dynamics (CFD) analysis. Then, analytical models of the aerodynamics coefficients are generated from the dataset collected with CFD analysis. The obtained simplified aerodynamic model is also used to improve the flying robot control design. We present two control strategies: compensating for the aerodynamic effects via feedback linearization and enforcing the controller robustness with gain-scheduling. Simulation results on the jet-powered humanoid robot iRonCub validate the proposed approach.
+  This paper proposes a technique for automatic gain tuning of a momentum based balancing controller for humanoid robots. The controller ensures the stabilization of the centroidal dynamics and the associated zero dynamics. Then, the closed-loop, constrained joint space dynamics is linearized and the controller's gains are chosen so as to obtain desired properties of the linearized system. Symmetry and positive definiteness constraints of gain matrices are enforced by proposing a tracker for symmetric positive definite matrices. Simulation results are carried out on the humanoid robot iCub.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +46,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9812147'
+url_pdf: 'https://ieeexplore.ieee.org/document/7803272'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/9812147/media#media'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

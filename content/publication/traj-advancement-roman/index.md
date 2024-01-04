@@ -1,17 +1,14 @@
 ---
-title: 'Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots'
+title: 'Trajectory Advancement during Human-Robot Collaboration'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tong Hui
-  - Antonello Paolino
+  - Yeshasvi Tirupachuri
   - admin
-  - Giuseppe L'Erario
-  - Fabio Di Natale
-  - Fabio Bergonti
-  - Francesco Braghin
+  - Lorenzo Rapetti
+  - Claudia Latella
   - Daniele Pucci
 
 # # Author notes (optional)
@@ -19,11 +16,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022'
+date: '2019'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2019-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +29,11 @@ publishDate: '2022-05-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2022 International Conference on Robotics and Automation (ICRA)
+publication:  2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
 # publication_short: In *ICRA*
 
 abstract: > 
-  This paper presents a modeling and control frame-work for multibody flying robots subject to non-negligible aero-dynamic forces acting on the centroidal dynamics. First, aero-dynamic forces are calculated during robot flight in different operating conditions by means of Computational Fluid Dynamics (CFD) analysis. Then, analytical models of the aerodynamics coefficients are generated from the dataset collected with CFD analysis. The obtained simplified aerodynamic model is also used to improve the flying robot control design. We present two control strategies: compensating for the aerodynamic effects via feedback linearization and enforcing the controller robustness with gain-scheduling. Simulation results on the jet-powered humanoid robot iRonCub validate the proposed approach.
+  As technology advances, the barriers between the co-existence of humans and robots are slowly coming down. The prominence of physical interactions for collaboration and cooperation between humans and robots will be an undeniable fact. Rather than exhibiting simple reactive behaviors to human interactions, it is desirable to endow robots with augmented capabilities of exploiting human interactions for successful task completion. Towards that goal, in this paper, we propose a trajectory advancement approach in which we mathematically derive the conditions that facilitate advancing along a reference trajectory by leveraging assistance from helpful interaction wrench present during human-robot collaboration. We validate our approach through experiments conducted with the iCub humanoid robot both in simulation and on the real robot.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +48,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9812147'
+url_pdf: 'https://ieeexplore.ieee.org/document/8956339'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/9812147/media#media'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

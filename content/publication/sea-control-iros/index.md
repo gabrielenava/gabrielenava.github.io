@@ -1,29 +1,24 @@
 ---
-title: 'Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots'
+title: 'Momentum control of humanoid robots with series elastic actuators'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tong Hui
-  - Antonello Paolino
   - admin
-  - Giuseppe L'Erario
-  - Fabio Di Natale
-  - Fabio Bergonti
-  - Francesco Braghin
   - Daniele Pucci
+  - Francesco Nori
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022'
+date: '2017'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2017-12-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,11 +27,11 @@ publishDate: '2022-05-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2022 International Conference on Robotics and Automation (ICRA)
+publication:  2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 # publication_short: In *ICRA*
 
-abstract: > 
-  This paper presents a modeling and control frame-work for multibody flying robots subject to non-negligible aero-dynamic forces acting on the centroidal dynamics. First, aero-dynamic forces are calculated during robot flight in different operating conditions by means of Computational Fluid Dynamics (CFD) analysis. Then, analytical models of the aerodynamics coefficients are generated from the dataset collected with CFD analysis. The obtained simplified aerodynamic model is also used to improve the flying robot control design. We present two control strategies: compensating for the aerodynamic effects via feedback linearization and enforcing the controller robustness with gain-scheduling. Simulation results on the jet-powered humanoid robot iRonCub validate the proposed approach.
+abstract: >
+  Humanoid robots may require a degree of compliance at joint level for improving efficiency, shock tolerance, and safe interaction with humans. The presence of joint elasticity, however, complexifies the control design of humanoid robots. This paper proposes a control framework to extend momentum based controllers developed for stiff actuation to the case of series elastic actuators. The key point is to consider the motor velocities as an intermediate control input, and then apply high-gain control to stabilise the desired motor velocities achieving momentum control. Simulations carried out on a model of the robot iCub verify the soundness of the proposed approach.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +46,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9812147'
+url_pdf: 'https://ieeexplore.ieee.org/document/8206037'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/9812147/media#media'
+url_video: 'https://ieeexplore.ieee.org/document/8206037/media#media'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

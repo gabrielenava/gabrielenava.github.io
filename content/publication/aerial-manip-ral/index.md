@@ -1,42 +1,39 @@
 ---
-title: 'Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots'
+title: 'Direct Force Feedback Control and Online Multi-Task Optimization for Aerial Manipulators'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tong Hui
-  - Antonello Paolino
   - admin
-  - Giuseppe L'Erario
-  - Fabio Di Natale
-  - Fabio Bergonti
-  - Francesco Braghin
+  - Quentin Sablé
+  - Marco Tognon
   - Daniele Pucci
+  - Antonio Franchi
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022'
+date: '2020'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2020-04-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication:  2022 International Conference on Robotics and Automation (ICRA)
+publication:  IEEE Robotics and Automation Letters
 # publication_short: In *ICRA*
 
 abstract: > 
-  This paper presents a modeling and control frame-work for multibody flying robots subject to non-negligible aero-dynamic forces acting on the centroidal dynamics. First, aero-dynamic forces are calculated during robot flight in different operating conditions by means of Computational Fluid Dynamics (CFD) analysis. Then, analytical models of the aerodynamics coefficients are generated from the dataset collected with CFD analysis. The obtained simplified aerodynamic model is also used to improve the flying robot control design. We present two control strategies: compensating for the aerodynamic effects via feedback linearization and enforcing the controller robustness with gain-scheduling. Simulation results on the jet-powered humanoid robot iRonCub validate the proposed approach.
+  In this letter we present an optimization-based method for controlling aerial manipulators in physical contact with the environment. The multi-task control problem, which includes hybrid force-motion tasks, energetic tasks, and position/postural tasks, is recast as a quadratic programming problem with equality and inequality constraints, which is solved online. Thanks to this method, the aerial platform can be exploited at its best to perform the multi-objective tasks, with tunable priorities, while hard constraints such as contact maintenance, friction cones, joint limits, maximum and minimum propeller speeds are all respected. An on-board force/torque sensor mounted at the end effector is used in the feedback loop in order to cope with model inaccuracies and reject external disturbances. Real experiments with a multi-rotor platform and a multi-DoF lightweight manipulator demonstrate the applicability and effectiveness of the proposed approach in the real world.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +48,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9812147'
+url_pdf: 'https://ieeexplore.ieee.org/document/8928943'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/9812147/media#media'
+url_video: 'https://ieeexplore.ieee.org/document/8928943/media#media'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

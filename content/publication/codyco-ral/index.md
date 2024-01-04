@@ -1,42 +1,53 @@
 ---
-title: 'Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots'
+title: 'The CoDyCo Project Achievements and Beyond: Toward Human Aware Whole-Body Controllers for Physical Human Robot Interaction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Tong Hui
-  - Antonello Paolino
+  - Francesco Romano
   - admin
-  - Giuseppe L'Erario
-  - Fabio Di Natale
-  - Fabio Bergonti
-  - Francesco Braghin
+  - Morteza Azad
+  - Jernej Čamernik
+  - Stefano Dafarra
+  - Oriane Dermy
+  - Claudia Latella
+  - Maria Lazzaroni
+  - Ryan Lober
+  - Marta Lorenzini
   - Daniele Pucci
+  - Olivier Sigaud
+  - Silvio Traversaro
+  - Jan Babič
+  - Serena Ivaldi
+  - Michael Mistry
+  - Vincent Padois
+  - Francesco Nori
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022'
+date: '2017'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2017-11-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication:  2022 International Conference on Robotics and Automation (ICRA)
+publication:  IEEE Robotics and Automation Letters
 # publication_short: In *ICRA*
 
 abstract: > 
-  This paper presents a modeling and control frame-work for multibody flying robots subject to non-negligible aero-dynamic forces acting on the centroidal dynamics. First, aero-dynamic forces are calculated during robot flight in different operating conditions by means of Computational Fluid Dynamics (CFD) analysis. Then, analytical models of the aerodynamics coefficients are generated from the dataset collected with CFD analysis. The obtained simplified aerodynamic model is also used to improve the flying robot control design. We present two control strategies: compensating for the aerodynamic effects via feedback linearization and enforcing the controller robustness with gain-scheduling. Simulation results on the jet-powered humanoid robot iRonCub validate the proposed approach.
+  The success of robots in real-world environments is largely dependent on their ability to interact with both humans and said environment. The FP7 EU project CoDyCo focused on the latter of these two challenges by exploiting both rigid and compliant contacts dynamics in the robot control problem. Regarding the former, to properly manage interaction dynamics on the robot control side, an estimation of the human behaviors and intentions is necessary. In this letter, we present the building blocks of such a human-in-the-loop controller, and validate them in both simulation and on the iCub humanoid robot using a human-robot interaction scenario. In this scenario, a human assists the robot in standing up from being seated on a bench.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +62,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9812147'
+url_pdf: 'https://ieeexplore.ieee.org/document/8093992'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/9812147/media#media'
+url_video: 'https://ieeexplore.ieee.org/document/8093992/media#media'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

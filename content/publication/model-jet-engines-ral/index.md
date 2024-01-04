@@ -1,17 +1,17 @@
 ---
-title: 'Centroidal Aerodynamic Modeling and Control of Flying Multibody Robots'
+title: 'Modeling, Identification and Control of Model Jet Engines for Jet Powered Robotics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tong Hui
-  - Antonello Paolino
+  - Giuseppe L’Erario
+  - Luca Fiorio
   - admin
-  - Giuseppe L'Erario
-  - Fabio Di Natale
   - Fabio Bergonti
-  - Francesco Braghin
+  - Hosameldin Awadalla Omer Mohamed
+  - Emilio Benenati
+  - Silvio Traversaro
   - Daniele Pucci
 
 # # Author notes (optional)
@@ -19,24 +19,24 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022'
+date: '2020'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-01T00:00:00Z'
+publishDate: '2020-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication:  2022 International Conference on Robotics and Automation (ICRA)
+publication:  IEEE Robotics and Automation Letters
 # publication_short: In *ICRA*
 
 abstract: > 
-  This paper presents a modeling and control frame-work for multibody flying robots subject to non-negligible aero-dynamic forces acting on the centroidal dynamics. First, aero-dynamic forces are calculated during robot flight in different operating conditions by means of Computational Fluid Dynamics (CFD) analysis. Then, analytical models of the aerodynamics coefficients are generated from the dataset collected with CFD analysis. The obtained simplified aerodynamic model is also used to improve the flying robot control design. We present two control strategies: compensating for the aerodynamic effects via feedback linearization and enforcing the controller robustness with gain-scheduling. Simulation results on the jet-powered humanoid robot iRonCub validate the proposed approach.
+  The paper contributes towards the modeling, identification, and control of model jet engines. We propose a nonlinear, second order model in order to capture the model jet engines governing dynamics. The model structure is identified by applying sparse identification of nonlinear dynamics, and then the parameters of the model are found via gray-box identification procedures. Once the model has been identified, we approached the control of the model jet engine by designing two control laws. The first is based on the classical Feedback Linearization technique, while the second one on the Sliding Mode control method. The overall methodology has been verified by modeling, identifying and controlling two model jet engines, i.e. P100-RX and P220-RXi developed by JetCat, which provide a maximum thrust of 100 N and 220 N, respectively.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -51,14 +51,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9812147'
+url_pdf: 'https://ieeexplore.ieee.org/document/8977379'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/9812147/media#media'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
