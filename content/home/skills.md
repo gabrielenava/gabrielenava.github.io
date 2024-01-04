@@ -26,6 +26,8 @@ design:
   }
 </style>
 
+For a more detailed overview of the topics I have worked on at IIT, see also this [mindmap](https://raw.githubusercontent.com/gabrielenava/gabrielenava/main/competencies_iit.png).
+
 <table class="skills-table">
   <tr>
     <th style="text-align: left;">Coding Languages 💻</th>
