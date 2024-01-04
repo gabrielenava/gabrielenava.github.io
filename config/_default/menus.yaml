@@ -14,7 +14,7 @@ main:
     url: '#skills'
     weight: 30  
   - name: Projects & Tools
-    url: '#projects-&-tools'
+    url: '#projects_tools'
     weight: 40
   - name: Publications
     url: '#publications'
