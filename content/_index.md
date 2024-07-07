@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Current Activity'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      - Lead technical coordination and management (Scrum Master) of the [iRonCub](https://ami.iit.it/it/aerial-humanoid-robotics) team, a multidisciplinary group developing a jet-powered humanoid robot for disaster response.
+      - Recent research activity: implementing automatic tuning of flight controllers using Reinforcement Learning; analyzing and designing whole-body flight controllers for humanoid robots.
+      - Co-tutor Ph.D. candidates and M.Sc. students in areas including robot force/torque control, aerodynamics, trajectory planning, jet engines and sensor modeling, hardware design and co-design strategies.
     design:
       columns: '1'
   - block: collection
@@ -55,7 +53,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
