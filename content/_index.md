@@ -45,8 +45,8 @@ sections:
         * Trajectory planning
         * Jet engines and sensor modeling
         * Hardware design and co-design strategies
-  design:
-    columns: '1'
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
