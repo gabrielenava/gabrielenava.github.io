@@ -34,8 +34,7 @@ sections:
     content:
       title: '📚 Current Activity'
       subtitle: ''
-      text: |-
-      Test
+      text: ""
     design:
       columns: '1'
   - block: collection
