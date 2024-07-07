@@ -34,7 +34,16 @@ sections:
     content:
       title: '📚 Current Activity'
       subtitle: ''
-      text: ""
+      text: "Lead technical coordination and management (Scrum Master)
+of the iRonCub team, a multidisciplinary group developing a
+jet-powered humanoid robot for disaster response.
+• Currently focus on: implementing automatic tuning of flight
+controllers using Reinforcement Learning; analyzing and
+designing whole-body flight controllers for humanoid robots.
+• Co-tutor Ph.D. candidates and M.Sc. students in areas
+including robot force/torque control, aerodynamics, trajectory
+planning, jet engines and sensor modeling, hardware design
+and co-design strategies"
     design:
       columns: '1'
   - block: collection
