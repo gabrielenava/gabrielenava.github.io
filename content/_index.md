@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/cv.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,7 @@ sections:
       title: '📚 Current Activity'
       subtitle: ''
       text: |-
-      • Lead technical coordination and management (Scrum Master) of the [iRonCub](https://ami.iit.it/it/aerial-humanoid-robotics) team, a multidisciplinary group developing a jet-powered humanoid robot for disaster response.
-      • Recent research activity: implementing automatic tuning of flight controllers using Reinforcement Learning; analyzing and designing whole-body flight controllers for humanoid robots.
-      • Co-tutor Ph.D. candidates and M.Sc. students in areas including robot force/torque control, aerodynamics, trajectory planning, jet engines and sensor modeling, hardware design and co-design strategies.
+      Test
     design:
       columns: '1'
   - block: collection
