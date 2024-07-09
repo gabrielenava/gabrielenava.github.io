@@ -86,8 +86,16 @@ work:
     date_start: 2016-11-01
     date_end: 2020-04-01
     summary: |
-      - Stability analysis and design of force controllers for humanoid robots balancing and aerial manipulators using Quadratic Programming. 
+      - Stability analysis and design of force controllers for humanoid robots balancing using Quadratic Programming. 
       - Control of robots with Series Elastic Actuators and robot balancing in highly dynamic environments.
+  - position: Visiting Ph.D.
+    company_name: Laboratory for Analysis and Architecture of Systems, Toulouse (FR)
+    company_url: 'https://www.laas.fr/en/'
+    company_logo: ''
+    date_start: 2019-06-01
+    date_end: 2019-09-01
+    summary: |
+      - Design of force control algorithms for aerial manipulators equipped with on board Force/Torque sensors.
   - position: Research Fellow
     company_name: Istituto Italiano di Tecnologia
     company_url: 'https://www.iit.it/it/home'
@@ -100,36 +108,32 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Coding Languages 💻
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
+        percent: 50
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
+  - name: Calculus and Design 🔧
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: MATLAB
         description: ''
-        percent: 60
+        percent: 90
         icon: person-simple-walk
-      - name: Cats
+  - name: Calculus and Design 🔧
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: MATLAB
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: person-simple-walk
 
 languages:
   - name: English
