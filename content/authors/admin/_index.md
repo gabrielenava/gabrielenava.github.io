@@ -52,32 +52,21 @@ education:
     date_start: 2016-11-01
     date_end: 2020-04-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Instantaneous Momentum-Based Control of Floating Base Systems_.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://iris.unige.it/handle/11567/1004907'
+  - area: M.Sc. in Mechanical Engineering
+    institution: Politecnico di Milano (IT)
+    date_start: 2013-09-01
+    date_end: 2015-12-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on _Analysis and Synthesis of Balancing Controllers for Humanoid Robots_.
+  - area: B.Sc. in Mechanical Engineering
+    institution: Politecnico di Milano (IT)
+    date_start: 2010-09-01
+    date_end: 2013-09-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       
 work:
   - position: PostDoctoral Researcher
