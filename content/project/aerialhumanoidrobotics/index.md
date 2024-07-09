@@ -1,6 +1,6 @@
 ---
-title: Aerial Humanoid Robotics
-date: ''
+title: 🤖 Aerial Humanoid Robotics
+date: '2024-01-01'
 external_link: 'https://ami.iit.it/it/aerial-humanoid-robotics' 
 tags:
   - Robotics

@@ -33,6 +33,7 @@ sections:
           parallax: false        
           
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
@@ -54,6 +55,7 @@ sections:
       username: admin
       
   - block: collection
+    id: projects
     content:
       title: Selected Projects
       text: A selection of projects that I have worked on over the years.
