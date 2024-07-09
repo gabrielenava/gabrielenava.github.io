@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/cv.pdf
+        url: uploads/cv_public.pdf
     design:
       css_class: dark
       background:
@@ -30,23 +30,41 @@ sections:
           size: cover
           position: center
           parallax: false        
-  - block: markdown
+  - block: resume-experience
     content:
-      title: '📚 Current Activity'
-      subtitle: ''
-      text: |
-        - Lead technical coordination and management (Scrum Master) of the iRonCub team, a multidisciplinary group developing a jet-powered humanoid robot for disaster response.
-        - Currently focus on:
-          - Implementing automatic tuning of flight controllers using Reinforcement Learning.
-          - Analyzing and designing whole-body flight controllers for humanoid robots.
-        - Co-tutor Ph.D. candidates and M.Sc. students in areas including:
-          - Robot force/torque control
-          - Aerodynamics
-          - Trajectory planning
-          - Jet engines and sensor modeling
-          - Hardware design and co-design strategies.
+      username: admin
     design:
-      columns: '1'
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
+      
+  - block: collection
+    content:
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      
   - block: collection
     id: papers
     content:
@@ -68,45 +86,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
