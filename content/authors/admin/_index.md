@@ -112,31 +112,27 @@ skills:
     items:
       - name: C++
         description: ''
-        percent: 60
+        percent: 50
         icon: chart-bar
       - name: Python
         description: ''
-        percent: 70
+        percent: 60
         icon: code-bracket
       - name: MATLAB/Simulink
         description: ''
-        percent: 90
+        percent: 80
         icon: person-simple-walk
-  - name: Robotics Software 🤖
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
       - name: YARP
         description: ''
-        percent: 70
+        percent: 60
         icon: person-simple-walk
       - name: iDynTree
         description: ''
-        percent: 80
+        percent: 70
         icon: person-simple-walk
       - name: Gazebo Simulator
         description: ''
-        percent: 80
+        percent: 70
         icon: person-simple-walk
   - name: Operating Systems and Version Control ⚙️
     color: '#eeac02'
@@ -144,35 +140,31 @@ skills:
     items:
       - name: Windows
         description: ''
-        percent: 70
+        percent: 60
         icon: person-simple-walk
       - name: Linux
         description: ''
-        percent: 90
+        percent: 80
         icon: person-simple-walk
       - name: GitHub/GitLab
         description: ''
-        percent: 90
+        percent: 80
         icon: person-simple-walk
-  - name: Office and Similar 📚
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
       - name: Word
         description: ''
-        percent: 70
+        percent: 60
         icon: person-simple-walk
       - name: Excel
         description: ''
-        percent: 70
+        percent: 60
         icon: person-simple-walk
       - name: PowerPoint
         description: ''
-        percent: 90
+        percent: 80
         icon: person-simple-walk
       - name: Latex
         description: ''
-        percent: 90
+        percent: 80
         icon: person-simple-walk
 
 languages:
