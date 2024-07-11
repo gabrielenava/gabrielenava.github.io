@@ -150,11 +150,7 @@ skills:
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Word
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Excel
+      - name: Word/Excel
         description: ''
         percent: 60
         icon: person-simple-walk
