@@ -1,8 +1,9 @@
 ---
 title: 🤖 Aerial Humanoid Robotics
-date: '2024-01-01'
+date: ''
 external_link: 'https://ami.iit.it/it/aerial-humanoid-robotics' 
 tags:
+  - Jet Engines
   - Robotics
   - control
   - QP
@@ -10,7 +11,6 @@ tags:
   - Simulink
   - cpp
   - python
-  - jet engines
 ---
 
 Research on implementing aerial locomotion on humanoid robots.
