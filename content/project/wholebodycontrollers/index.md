@@ -1,6 +1,6 @@
 ---
 title: 🔨 Whole-Body-Controllers
-date: ''
+date: '2022-01-01'
 external_link: 'https://github.com/robotology/whole-body-controllers' 
 tags:
   - Force/Torque Control
