@@ -108,7 +108,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Coding Languages and Calculus 💻
+  - name: Software for Robotics 🤖
     items:
       - name: C++
         description: ''
@@ -134,7 +134,7 @@ skills:
         description: ''
         percent: 70
         icon: person-simple-walk
-  - name: Operating Systems and Version Control ⚙️
+  - name: OS and Utilities ⚙️
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
