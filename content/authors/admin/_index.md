@@ -156,7 +156,7 @@ skills:
         icon: person-simple-walk
       - name: PowerPoint
         description: ''
-        percent: 80
+        percent: 70
         icon: person-simple-walk
       - name: Latex
         description: ''
