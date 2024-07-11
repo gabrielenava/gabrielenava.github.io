@@ -108,60 +108,60 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Software for Robotics 🤖
+  - name: 🤖 Software for Robotics
     items:
       - name: C++
         description: ''
-        percent: 50
-        icon: chart-bar
+        percent: 55
+        icon: ''
       - name: Python
         description: ''
-        percent: 60
-        icon: code-bracket
+        percent: 65
+        icon: ''
       - name: MATLAB/Simulink
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: ''
       - name: YARP
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 65
+        icon: ''
       - name: iDynTree
         description: ''
-        percent: 70
-        icon: person-simple-walk
+        percent: 75
+        icon: ''
       - name: Gazebo Simulator
         description: ''
         percent: 70
-        icon: person-simple-walk
-  - name: OS and Utilities ⚙️
+        icon: ''
+  - name: ⚙️ OS and Utilities
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Windows
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 65
+        icon: ''
       - name: Linux
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: ''
       - name: GitHub/GitLab
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: ''
       - name: Word/Excel
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: ''
       - name: PowerPoint
         description: ''
         percent: 70
-        icon: person-simple-walk
+        icon: ''
       - name: Latex
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: ''
 
 languages:
   - name: English
