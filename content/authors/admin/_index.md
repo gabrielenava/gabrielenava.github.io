@@ -108,29 +108,69 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Coding Languages 💻
+  - name: Coding Languages and Calculus 💻
     items:
+      - name: C++
+        description: ''
+        percent: 60
+        icon: chart-bar
       - name: Python
         description: ''
         percent: 70
         icon: code-bracket
-      - name: C++
-        description: ''
-        percent: 50
-        icon: chart-bar
-  - name: Calculus and Design 🔧
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: MATLAB
+      - name: MATLAB/Simulink
         description: ''
         percent: 90
         icon: person-simple-walk
-  - name: Calculus and Design 🔧
+  - name: Robotics Software 🤖
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: MATLAB
+      - name: YARP
+        description: ''
+        percent: 70
+        icon: person-simple-walk
+      - name: iDynTree
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Gazebo Simulator
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+  - name: Operating Systems and Version Control ⚙️
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Windows
+        description: ''
+        percent: 70
+        icon: person-simple-walk
+      - name: Linux
+        description: ''
+        percent: 90
+        icon: person-simple-walk
+      - name: GitHub/GitLab
+        description: ''
+        percent: 90
+        icon: person-simple-walk
+  - name: Office and Similar 📚
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Word
+        description: ''
+        percent: 70
+        icon: person-simple-walk
+      - name: Excel
+        description: ''
+        percent: 70
+        icon: person-simple-walk
+      - name: PowerPoint
+        description: ''
+        percent: 90
+        icon: person-simple-walk
+      - name: Latex
         description: ''
         percent: 90
         icon: person-simple-walk
@@ -142,7 +182,7 @@ languages:
     percent: 100
   - name: French
     percent: 25
-
+    
 ---
 
 ## About Me
