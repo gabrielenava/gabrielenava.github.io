@@ -1,6 +1,6 @@
 ---
 title: 🎥 Ph.D. Thesis Videos
-date: ''
+#date: ''
 external_link: 'https://www.youtube.com/playlist?list=PLltBBMLNGuC7NbJteKfh1uoYN1VpNz2Fj' 
 tags:
   - control

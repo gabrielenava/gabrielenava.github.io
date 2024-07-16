@@ -1,6 +1,6 @@
 ---
 title: 💡 GitHub-Projects
-date: ''
+#date: ''
 external_link: 'https://github.com/gabrielenava?tab=repositories' 
 tags:
   - robotics

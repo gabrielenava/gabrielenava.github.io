@@ -1,6 +1,6 @@
 ---
 title: 🤖 Aerial Humanoid Robotics
-date: ''
+#date: ''
 external_link: 'https://ami.iit.it/it/aerial-humanoid-robotics' 
 tags:
   - flight control
