@@ -103,7 +103,7 @@ work:
     date_start: 2015-01-01
     date_end: 2016-11-01
     summary: |
-      - Design of force and momentum based whole-body controllers for humanoid robots, in the context of the European Projects KOROIBOT and [CoDyCo](https://codyco.eu/).
+      - Design of force and momentum based whole-body controllers for humanoid robots, in the context of the European Projects KOROIBOT and CoDyCo.
           
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
