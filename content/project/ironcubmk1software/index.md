@@ -1,14 +1,14 @@
 ---
 title: 🚀 iRonCub-Mk1-Software
-date: '2023-01-01'
+date: ''
 external_link: 'https://github.com/ami-iit/ironcub-mk1-software' 
 tags:
-  - MATLAB/Simulink
-  - Robot Control
-  - Jet Engines
-  - Robotics
-  - control
-  - QP
+  - matlab
+  - robotics
+  - jet engines
+  - qp
+  - flight control
+  - simulink
   - cpp
   - python
 ---

@@ -1,15 +1,14 @@
 ---
 title: 🔨 Whole-Body-Controllers
-date: '2022-01-01'
+date: ''
 external_link: 'https://github.com/robotology/whole-body-controllers' 
 tags:
-  - Force/Torque Control
-  - Jet Engines
-  - Robotics
-  - control
-  - QP
-  - MATLAB
-  - Simulink
+  - force/torque control
+  - robotics
+  - jet engines
+  - qp
+  - matlab
+  - simulink
   - cpp
   - python
 ---

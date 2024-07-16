@@ -1,15 +1,14 @@
 ---
 title: 🎥 Ph.D. Thesis Videos
-date: '2020-01-01'
+date: ''
 external_link: 'https://www.youtube.com/playlist?list=PLltBBMLNGuC7NbJteKfh1uoYN1VpNz2Fj' 
 tags:
-  - Robot Control
-  - Jet Engines
-  - Robotics
   - control
-  - QP
-  - MATLAB
-  - Simulink
+  - robotics
+  - jet engines
+  - qp
+  - matlab
+  - simulink
   - cpp
   - python
 ---

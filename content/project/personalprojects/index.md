@@ -1,15 +1,14 @@
 ---
 title: 💡 GitHub-Projects
-date: '2023-01-01'
+date: ''
 external_link: 'https://github.com/gabrielenava?tab=repositories' 
 tags:
-  - Simulation
-  - MATLAB/Simulink
-  - Robot Control
-  - Jet Engines
-  - Robotics
-  - control
-  - QP
+  - robotics
+  - flight control
+  - jet engines
+  - qp
+  - matlab
+  - simulink
   - cpp
   - python
 ---
