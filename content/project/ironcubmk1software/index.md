@@ -1,6 +1,6 @@
 ---
 title: 🚀 iRonCub-Mk1-Software
-#date: ''
+date: '2023'
 external_link: 'https://github.com/ami-iit/ironcub-mk1-software' 
 tags:
   - matlab
