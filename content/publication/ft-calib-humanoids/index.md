@@ -16,11 +16,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024'
+date: '2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-11-01T00:00:00Z'
+publishDate: '2023-11-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ publishDate: '2017-11-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2024 IEEE-RAS International Conference on Humanoid Robotics (Humanoids)
+publication:  2023 IEEE-RAS International Conference on Humanoid Robotics (Humanoids)
 # publication_short: In *ICRA*
 
 abstract: > 
