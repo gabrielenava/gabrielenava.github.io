@@ -5,7 +5,6 @@ title: 'The CoDyCo Project Achievements and Beyond: Toward Human Aware Whole-Bod
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Tong Hui
   - Francesco Romano
   - admin
   - Morteza Azad
