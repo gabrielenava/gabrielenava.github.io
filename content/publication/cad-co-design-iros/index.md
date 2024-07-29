@@ -1,23 +1,23 @@
 ---
-title: 'Safe trajectory optimization for whole-body motion of humanoids'
+title: 'From cad to urdf: Co-design of a jet-powered humanoid robot including cad geometry,'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Valerio Modugno
+  - Punith Vanteddu
   - admin 
+  - Fabio Bergonti
+  - Giuseppe L'Erario
+  - Antonello Paolino
   - Daniele Pucci
-  - Francesco Nori
-  - Giuseppe Oriolo
-  - Serena Ivaldi
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2017'
+date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,11 +30,11 @@ publishDate: '2017-11-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2017 IEEE-RAS 17th International Conference on Humanoid Robotics (Humanoids)
+publication:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 # publication_short: In *ICRA*
 
 abstract: > 
-  Multi-task prioritized controllers generate complex behaviors for humanoids that concurrently satisfy several tasks and constraints. In our previous work we automatically learned the task priorities that maximized the robot performance in whole-body reaching tasks, ensuring that the optimized priorities were leading to safe behaviors. Here, we take the opposite approach: we optimize the task trajectories for whole-body balancing tasks with switching contacts, ensuring that the optimized movements are safe and never violate any of the robot and problem constraints. We use (1+1)-CMA-ES with Constrained Covariance Adaptation as a constrained black box stochastic optimization algorithm, with an instance of (1+1)-CMA-ES for bootstrapping the search. We apply our learning framework to the prioritized whole-body torque controller of iCub, to optimize the robot's movement for standing up from a chair.
+  Co-design optimization strategies usually rely on simplified robot models extracted from CAD. While these models are useful for optimizing geometrical and inertial parameters for robot control, they might overlook important details essential for prototyping the optimized mechanical design. For instance, they may not account for mechanical stresses exerted on the optimized geometries and the complexity of assembly-level design. In this paper, we introduce a co-design framework aimed at improving both the control performance and mechanical design of our robot. Specifically, we identify the robot links that significantly influence control performance. The geometric characteristics of these links are parameterized and optimized using a multi-objective evolutionary algorithm to achieve optimal control performance. Additionally, an automated Finite Element Method (FEM) analysis is integrated into the framework to filter solutions not satisfying the required structural safety margin. We validate the framework by applying it to enhance the mechanical design for flight performance of the jet-powered humanoid robot iRonCub.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,14 +49,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8246958'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/8246958/media#media'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

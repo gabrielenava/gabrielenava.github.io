@@ -1,23 +1,25 @@
 ---
-title: 'Safe trajectory optimization for whole-body motion of humanoids'
+title: 'Learning to Walk and Fly with Adversarial Motion Priors'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Valerio Modugno
+  - Giuseppe L’Erario 
+  - Drew Hanover 
+  - Angel Romero
+  - Yunlong Song
   - admin 
+  - Paolo Maria Viceconte
   - Daniele Pucci
-  - Francesco Nori
-  - Giuseppe Oriolo
-  - Serena Ivaldi
+  - Davide Scaramuzza
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2017'
+date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,11 +32,11 @@ publishDate: '2017-11-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2017 IEEE-RAS 17th International Conference on Humanoid Robotics (Humanoids)
+publication:  2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 # publication_short: In *ICRA*
 
 abstract: > 
-  Multi-task prioritized controllers generate complex behaviors for humanoids that concurrently satisfy several tasks and constraints. In our previous work we automatically learned the task priorities that maximized the robot performance in whole-body reaching tasks, ensuring that the optimized priorities were leading to safe behaviors. Here, we take the opposite approach: we optimize the task trajectories for whole-body balancing tasks with switching contacts, ensuring that the optimized movements are safe and never violate any of the robot and problem constraints. We use (1+1)-CMA-ES with Constrained Covariance Adaptation as a constrained black box stochastic optimization algorithm, with an instance of (1+1)-CMA-ES for bootstrapping the search. We apply our learning framework to the prioritized whole-body torque controller of iCub, to optimize the robot's movement for standing up from a chair.
+  Robot multimodal locomotion encompasses the ability to transition between walking and flying, representing a significant challenge in robotics. This work presents an approach that enables automatic smooth transitions between legged and aerial locomotion. Leveraging the concept of Adversarial Motion Priors, our method allows the robot to imitate motion datasets and accomplish the desired task without the need for complex reward functions. The robot learns walking patterns from human-like gaits and aerial locomotion patterns from motions obtained using trajectory optimization. Through this process, the robot adapts the locomotion scheme based on environmental feedback using reinforcement learning, with the spontaneous emergence of mode-switching behavior. The results highlight the potential for achieving multimodal locomotion in aerial humanoid robotics through automatic control of walking and flying modes, paving the way for applications in diverse domains such as search and rescue, surveillance, and exploration missions. This research contributes to advancing the capabilities of aerial humanoid robots in terms of versatile locomotion in various environments.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,14 +51,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8246958'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/8246958/media#media'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

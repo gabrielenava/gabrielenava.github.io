@@ -1,23 +1,22 @@
 ---
-title: 'Safe trajectory optimization for whole-body motion of humanoids'
+title: 'Nonlinear In-situ Calibration of Strain-Gauge Force/Torque Sensors for Humanoid Robots'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Valerio Modugno
-  - admin 
+  - Hosameldin Awadalla Omer Mohamed
+  - admin
+  - Punith Reddy Vanteddu
+  - Francesco Braghin
   - Daniele Pucci
-  - Francesco Nori
-  - Giuseppe Oriolo
-  - Serena Ivaldi
-
+  
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2017'
+date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,12 +29,12 @@ publishDate: '2017-11-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2017 IEEE-RAS 17th International Conference on Humanoid Robotics (Humanoids)
+publication:  2024 IEEE-RAS International Conference on Humanoid Robotics (Humanoids)
 # publication_short: In *ICRA*
 
 abstract: > 
-  Multi-task prioritized controllers generate complex behaviors for humanoids that concurrently satisfy several tasks and constraints. In our previous work we automatically learned the task priorities that maximized the robot performance in whole-body reaching tasks, ensuring that the optimized priorities were leading to safe behaviors. Here, we take the opposite approach: we optimize the task trajectories for whole-body balancing tasks with switching contacts, ensuring that the optimized movements are safe and never violate any of the robot and problem constraints. We use (1+1)-CMA-ES with Constrained Covariance Adaptation as a constrained black box stochastic optimization algorithm, with an instance of (1+1)-CMA-ES for bootstrapping the search. We apply our learning framework to the prioritized whole-body torque controller of iCub, to optimize the robot's movement for standing up from a chair.
-
+  High force/torque (F/T) sensor calibration accuracy is crucial to achieving successful force estimation/control tasks with humanoid robots. State-of-the-art affine calibration models do not always approximate correctly the physical phenomenon of the sensor/transducer, resulting in inaccurate F/T measurements for specific applications such as thrust estimation of a jet-powered humanoid robot. This paper proposes and validates nonlinear polynomial models for F/T calibration, increasing the number of model coefficients to minimize the estimation residuals. The analysis of several models, based on the data collected from experiments with the iCub3 robot, shows a significant improvement in minimizing the force/torque estimation error when using higher-degree polynomials. In particular, when using a 4th-degree polynomial model, the Root Mean Square error (RMSE) decreased to 2.28N from the 4.58N obtained with an affine model, and the absolute error in the forces remained under 6N while it was reaching up to 16N with the affine model.
+  
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -49,14 +48,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8246958'
+url_pdf: 'https://ieeexplore.ieee.org/document/10375227'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/8246958/media#media'
+url_video: 'https://ieeexplore.ieee.org/document/10375227/media#media'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

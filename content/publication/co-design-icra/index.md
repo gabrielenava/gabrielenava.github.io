@@ -31,7 +31,7 @@ publishDate: '2017-11-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  2017 IEEE-RAS 17th International Conference on Humanoid Robotics (Humanoids)
+publication:  2024 International Conference on Robotics and Automation (ICRA)
 # publication_short: In *ICRA*
 
 abstract: > 
@@ -50,14 +50,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/8246958'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://ieeexplore.ieee.org/document/8246958/media#media'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
